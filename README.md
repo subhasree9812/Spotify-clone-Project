@@ -1,2 +1,2 @@
 # Spotify-clone-Project
-Like this project:)
+Like this project :)
